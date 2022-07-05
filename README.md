@@ -14,8 +14,8 @@
 
 <div align="center">
   <a href="https://github.com/Gabriellps">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriellps&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriellps&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPalheiro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPalheiro&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
   
