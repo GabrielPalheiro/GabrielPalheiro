@@ -1,6 +1,6 @@
 ### Hi, I'm Gabriel Palheiro 👋
 
-**Backend Developer & Tech Lead** — Americana, SP 🇧🇷
+**Backend Developer** — Santa Barbara D`oeste, SP 🇧🇷
 
 I build and maintain a multi-tenant ERP in **C# / .NET**, with a focus on backend services, REST APIs and Brazilian fiscal document integrations (NF-e, NFS-e, CT-e).
 
